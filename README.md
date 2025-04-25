@@ -1,1 +1,2 @@
 # juego_el_pollo
+- pues el juego consiste de un pollito pase la carretera donde hay carros donde lo puede pisar entonces el pollito tiene 3 vidas si el pasa y en una un carro lo pisa queda sin una vida asi susecivamente despues que se le acaben las vidas el juego se cierra la historia puede ser que el pollito tenia huevos y un ladron se los robo y  salio a percegirlo y en la carretera habian carros  eso   para poder que sirva toca tener los codigos y cordenas 
